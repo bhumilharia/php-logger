@@ -1,3 +1,7 @@
 # JetBrains project settings
 .idea/
+
+# Composer
+composer.lock
+composer.phar
 vendor/
